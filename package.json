@@ -25,7 +25,7 @@
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dompurify": "^3.2.5",
-    "dotenv": "^17.2.0",
+    "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "express-async-handler": "^1.2.0",
     "express-mongo-sanitize": "^2.2.0",
