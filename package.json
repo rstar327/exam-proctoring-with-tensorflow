@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@clerk/clerk-react": "^5.35.3",
+    "@clerk/clerk-react": "^5.53.6",
     "@clerk/clerk-sdk-node": "^4.13.23",
     "axios": "^1.11.0",
     "bcryptjs": "^3.0.2",
