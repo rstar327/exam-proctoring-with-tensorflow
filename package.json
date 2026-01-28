@@ -20,7 +20,7 @@
   "dependencies": {
     "@clerk/clerk-react": "^5.59.6",
     "@clerk/clerk-sdk-node": "^5.1.6",
-    "axios": "^1.13.3",
+    "axios": "^1.13.4",
     "bcryptjs": "^3.0.3",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.6",
