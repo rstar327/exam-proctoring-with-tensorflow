@@ -29,7 +29,7 @@
     "express": "^5.2.1",
     "express-async-handler": "^1.2.0",
     "express-mongo-sanitize": "^2.2.0",
-    "express-rate-limit": "^8.3.2",
+    "express-rate-limit": "^8.4.0",
     "express-session": "^1.19.0",
     "helmet": "^8.1.0",
     "hpp": "^0.2.3",
