@@ -36,7 +36,7 @@
     "http-status": "^2.1.0",
     "joi": "^18.2.3",
     "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.7.2",
+    "mongoose": "^9.7.3",
     "morgan": "^1.11.0",
     "openai": "^6.45.0",
     "passport": "^0.7.0",
