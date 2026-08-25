@@ -34,7 +34,7 @@
     "helmet": "^8.3.0",
     "hpp": "^0.2.3",
     "http-status": "^2.1.0",
-    "joi": "^18.2.3",
+    "joi": "^18.2.5",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.9.2",
     "morgan": "^1.11.0",
