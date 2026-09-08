@@ -4,8 +4,13 @@ import { isEmpty } from "../utils/isEmpty.js";
 
 dotenv.config();
 
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+if (isEmpty(OPENAI_API_KEY)) {
+  throw new Error("OPENAI_API_KEY environment variable is not set");
+}
+
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY, // Ensure the API key is stored securely
+  apiKey: OPENAI_API_KEY, // Ensure the API key is stored securely
 });
 
 const ScoreMultiChoice = (answer) => {
