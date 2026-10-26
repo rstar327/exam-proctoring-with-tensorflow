@@ -38,7 +38,7 @@
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.11.2",
     "morgan": "^1.12.1",
-    "openai": "^7.39.0",
+    "openai": "^7.43.0",
     "passport": "^0.7.0",
     "path": "^0.12.7",
     "react-quill": "^2.0.0",
